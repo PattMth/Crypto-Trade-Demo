@@ -6,9 +6,9 @@ Student ID: 13652452
 UTS email: 13652452@student.uts.edu.au
 
 Member 2
-Name:
-Student ID:
-UTS email:
+Name: Pradnya Deva
+Student ID: 13662376
+UTS email: 13662376@student.uts.edu.au
 
 Member 3
 Name:

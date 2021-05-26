@@ -11,9 +11,9 @@ Student ID: 13662376
 UTS email: 13662376@student.uts.edu.au
 
 Member 3
-Name:
-Student ID:
-UTS email:
+Name: Haryono Wijaya
+Student ID: 13657402
+UTS email:13657402@uts.edu.au
 
 Member 4
 Name:
